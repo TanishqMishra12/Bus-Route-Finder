@@ -1,0 +1,6 @@
+target/
+*.class
+logs/search_history.log
+*.iml
+.idea/
+.vscode/
