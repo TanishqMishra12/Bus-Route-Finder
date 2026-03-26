@@ -192,4 +192,3 @@ RouteNumber,StopID,SequencePosition,TravelTimeToNextStopInMinutes
 ```
 
 Restart the application to load the updated data.
----
